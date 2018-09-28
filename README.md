@@ -1,7 +1,12 @@
 # LDA-on-EEG-Motor-Movement-Imagery-Dataset
-Linear discriminant analysis on EEG Motor Movement/Imagery Dataset: https://www.physionet.org/pn4/eegmmidb/
-https://github.com/kevinkuo52/LDA-on-EEG-Motor-Movement-Imagery-Dataset/edit/master/FpZS001R03.JPG
-Results after LDA
-https://github.com/kevinkuo52/LDA-on-EEG-Motor-Movement-Imagery-Dataset/edit/master/LDAFpZS001R03.JPG
+Linear discriminant analysis on EEG Motor Movement/Imagery Dataset: https://www.physionet.org/pn4/eegmmidb/<br />
+One random channel (FpZ or 23)out of 64 channel:
+<div align="center">
+    <img src="FpZS001R03.JPG" width="400px"</img> 
+</div>
+Results after LDA (across all 64 channel)<br />
+<div align="center">
+    <img src="LDAFpZS001R03.JPG" width="400px"</img> 
+</div>
 
 
